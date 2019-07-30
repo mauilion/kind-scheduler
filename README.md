@@ -1,6 +1,6 @@
 ### How to configure custom params for the kube-scheduler when using kubeadm.
 
-If you would like to use (kind)[https://sigs.k8s.io/kind] to try this out you can use the (config)[./config] file provided.
+If you would like to use [kind](https://sigs.k8s.io/kind) to try this out you can use the [config](./config) file provided.
 
 The config assumes that `scheduler-config.yaml` is located in `/tmp/`
 
